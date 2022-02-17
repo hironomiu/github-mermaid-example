@@ -1,5 +1,8 @@
 # github-mermaid-example
 
+GitHubでMarkdownを記述する際にmermaidの利用例
+
+
 ```mermaid
 graph TD
     A[Christmas] -->|Get money| B(Go shopping)
