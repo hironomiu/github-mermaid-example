@@ -2,6 +2,7 @@
 
 GitHubでMarkdownを記述する際にmermaidの利用例
 
+[公式ブログ](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
 ```mermaid
 graph TD
